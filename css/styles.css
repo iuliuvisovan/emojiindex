@@ -1,0 +1,50 @@
+body {
+    font-family: Montserrat;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 60px;
+    color: #E91E63;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 0;
+    font-weight: 100;
+}
+
+table {
+    display: inline;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+table tbody tr {
+    border: 1px solid #E91E63;
+}
+
+table td,
+table th {
+    padding: 10px;
+}
+
+table td:nth-of-type(3) {
+    font-weight: 700;
+}
+
+a {
+    color: #E91E63;
+    font-size: 20px;
+    display: block;
+    margin: 30px;
+    text-decoration: none;
+}
+
+.title-icon {
+    width: 25px;
+}
