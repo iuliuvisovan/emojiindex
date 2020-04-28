@@ -1,6 +1,6 @@
 body {
     font-family: Montserrat;
-    padding: 20px;
+    padding: 15px;
     text-align: center;
 }
 
@@ -47,4 +47,8 @@ a {
 
 .title-icon {
     width: 25px;
+}
+
+img {
+    width: 48px;
 }
